@@ -1,0 +1,27 @@
+.adminnavbar{
+   background-color: rgba(55, 116, 228, 0.863);
+   padding: 5px;
+   display: flex;
+   justify-content: space-between;
+   align-items: center;
+}
+.navbar li{
+    display: inline;
+}
+.navbar a{
+    text-decoration: none;
+    color: white;
+    margin: 0px 34px;
+    font-style: italic;
+    text-shadow: 3px 3px 3px black;
+    
+}
+.navbar a:hover{
+    border-bottom: 2px solid rgba(255, 255, 255, 0.575);
+}
+.adminlogo img{
+    width:72px ;
+    margin-left: 25px;
+    border-radius: 4px;
+    box-shadow: 4px 4px 10px grey;
+}

@@ -1,0 +1,21 @@
+.userlist{
+    text-align: center;
+}
+.usermain{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center;
+   
+}
+.user{
+    background:linear-gradient(rgba(16, 67, 236, 0.856),rgba(175, 22, 162, 0.65)) ;
+    border-radius: 9px;
+    box-shadow: 3px 4px 4px blue;
+    padding: 4px 9px;
+}
+.user button{
+    padding: 7px 10px;
+    border: none;
+    border-radius: 5px;
+}

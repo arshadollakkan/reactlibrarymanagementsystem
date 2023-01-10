@@ -1,0 +1,46 @@
+.userlogin{
+     height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(128, 128, 128, 0.349);
+    
+}
+.form{
+    background-color: white;
+    width: 28%;
+    height: 453px;
+    text-align: center;
+    border-radius: 8px;
+    box-shadow: 4px 5px 4px black;
+    
+}
+.form h1{
+    margin-top:0px;
+   
+}
+.forminput input{
+    margin-top: 22px;
+    width: 229px;
+    height: 39px;
+    border: 0px;
+    outline: none;
+    
+   
+    border-radius: 6px;
+    box-shadow: 2px 3px 4px black;
+    text-align: center;
+}
+.forminput button{
+    margin-top: 80px;
+    width: 169px;
+    height: 48px;
+    border: 0px;
+    font-size: 23px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: italic;
+    color: white;
+    background-color:rgb(10, 112, 10);
+    border-radius: 6px;
+    box-shadow: 2px 3px 4px black;
+}

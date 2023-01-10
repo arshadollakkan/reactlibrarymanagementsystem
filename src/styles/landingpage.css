@@ -1,0 +1,78 @@
+.landingpage2{
+    background-image:url("https://pbs.twimg.com/card_img/1608297030736285697/0p70o4KV?format=png&name=small") ;
+    
+   height: 100vh;
+   background-position: center;
+   background-size: cover;
+   
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+
+}
+.landingpage2 img{
+    width: 130px;
+    height: 104px;
+    border-radius: 9px;
+    box-shadow: 3px 4px 4px black;
+    
+    position: absolute;
+    top: 180px;
+    left:430px;
+    transition:.6s;
+    
+}
+.landingpage2 img:hover{
+    transform: scale(1.2);
+}
+
+
+.selectlogin{
+
+    width: 50%;
+    background-color: rgba(250, 235, 215, 0.212);
+    height: 550px;
+    border-radius: 9px;
+    box-shadow: 18px 6px 6px black;
+    transition: .6s;
+   
+}
+.selectlogin:hover{
+    background-color: grey;
+}
+.selectlogin h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+   margin-bottom: 233px;
+transition: .6s;
+}
+.selectlogin h1:hover{
+    font-style: italic;
+}
+.selectlogin a{
+    text-decoration: none;
+    margin:0px 67px;
+    padding: 15px 50px;
+    border: 3px solid orangered;
+    background-color: white;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    font-weight: 10px;
+    
+  
+    
+}
+
+
+
+#yo{
+    border:3px solid green;
+}
+#okk{
+    position: absolute;
+    top: 180px;
+    left: 750px;
+}
+
