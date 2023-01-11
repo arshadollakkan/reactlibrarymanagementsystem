@@ -1,0 +1,16 @@
+.adminhome{
+    text-align: center;
+background-image:linear-gradient(rgba(5, 79, 97, 0.377),rgba(0, 0, 0, 0.062)),url("https://media.istockphoto.com/id/178609380/photo/making-necessary-notes.jpg?s=612x612&w=0&k=20&c=8Qd7om50wzYlXjVb6lKv6zXMCwMMuoqZgeTkpzbGQt4=");
+background-position: center;
+background-size: cover;
+height: 100vh;
+    
+}
+.adminhome h1{
+    font-style: italic;
+    position: absolute;
+    left: 500px;
+    top: 400px;
+}
+
+

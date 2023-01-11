@@ -1,4 +1,52 @@
 .addbook{
     text-align: center;
+    background-color: rgba(128, 128, 128, 0.63);
+    height: 100vh;
+}
+.addbook h1{
+    margin: 0px;
+    margin-bottom: 4px;
+    padding: 7px;
+}
+.form123{
+   
+    margin: auto auto;
+    width: 50%;
+    background-color: rgba(228, 14, 14, 0.137);
+    height:500px;
+    box-shadow: 4px 4px 8px rgba(188, 143, 143, 0.089);
+    border-radius: 15px;
+    margin-bottom: 45px;
+   
+}
+.form123 input{
+  outline: none;  
+  background-color:rgba(245, 222, 179, 0.096);
+  border: 0px;
+  border-bottom: 1px solid black;
+  width: 320px;
+  height: 45px;
+  margin: 2px;
+  text-align: center;
+  font-style: italic;
+  font-size: 17px;
+  border-radius: 6px;
+
+}
+.textarea{
+    margin: 0px;
+    border-radius: 6px;
+    text-align: center;
+}
+.form123 form{
+    height: 200px;
+}
+.form123 button{
+    padding:8px 15px;
+    background-color: dimgray;
+    color:black;
+    border: none;
+    border-radius: 5px;
+
 }
    

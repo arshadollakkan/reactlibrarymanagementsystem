@@ -42,10 +42,10 @@ const Addbooks = () => {
                         <input type="number" required placeholder="enter pagecount" value={pageCount} onChange={(e)=>setpagecount(e.target.value)}/>
                     </div>
                     <div className="shortdescription">
-                       <textarea cols="30" rows="10"placeholder="write short description" value={shortDescription} onChange={(e)=>setshortdescription(e.target.value)}></textarea>
+                       <textarea cols="35" rows="5"placeholder="write short description" value={shortDescription} onChange={(e)=>setshortdescription(e.target.value)}></textarea>
                     </div>
                     <div className="longdescription">
-                        <textarea  cols="30" rows="10"placeholder="write long description" value={longDescription} onChange={(e)=>setlongdescription(e.target.value)}></textarea>
+                        <textarea  cols="35" rows="5"placeholder="write long description" value={longDescription} onChange={(e)=>setlongdescription(e.target.value)}></textarea>
                     </div>
                     <div className="thumbnailUrl">
                         <input type="text" required placeholder="enter book image link" value={thumbnailUrl} onChange={(e)=>setthumburl(e.target.value)}/>

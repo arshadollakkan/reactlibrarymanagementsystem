@@ -1,3 +1,4 @@
+import '../styles/admindashbord.css'
 const Admindashbord = () => {
     return ( 
         <div className="adminhome">
